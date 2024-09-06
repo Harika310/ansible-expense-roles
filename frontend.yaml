@@ -1,4 +1,4 @@
-- name: configure fronten dserver
+- name: configure frontend server
   hosts: frontend
   become: yes
   roles:
